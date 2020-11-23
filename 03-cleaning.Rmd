@@ -1,1 +1,12 @@
 # Data transformation
+
+###resturant data
+```{r}
+seated_dinner = read.csv("/Users/dmh/Desktop/YoY_Seated_Diner_Data-2.csv")
+head(seated_dinner)
+```
+```{r}
+reopen = read.csv("/Users/dmh/Desktop/YoY_Reopened_Seated_Diner_Data.csv")
+head(reopen)
+```
+
